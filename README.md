@@ -14,8 +14,8 @@ A simple and elegant task management application built with **React, Next.js, an
 
 ## 📸 Screenshot
 
-![Todo List App Screenshot](https://via.placeholder.com/1200x600?text=Todo+List+App)  
-*(Replace with an actual screenshot)*
+![image](https://github.com/user-attachments/assets/4590b54c-1d02-4a34-954a-a0a0ff5e9180)
+
 
 ## 🛠️ Technologies Used
 
